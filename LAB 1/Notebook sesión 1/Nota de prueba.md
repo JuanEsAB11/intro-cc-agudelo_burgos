@@ -1,2 +1,2 @@
 
-Probando el funcionamiento del complemento obsidian-git.
+Probando el funcionamiento del complemento obsidian-git. funciona
